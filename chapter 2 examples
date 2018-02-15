@@ -1,0 +1,12 @@
+mkdir file1
+mkdir file2
+echo Hello there.
+cat file1 file2
+ls
+cp file1 file2
+su
+mv file1 file2
+touch file
+ls -l file
+rm file
+echo Hello again.
