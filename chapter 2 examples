@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir file1
 mkdir file2
 echo Hello there.
